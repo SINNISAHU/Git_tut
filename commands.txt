@@ -1,7 +1,7 @@
 git status
 git init
-git config --global user.name "sgfghg"
-git config --global user.email "sgfghg"
+git config --global user.name "your_name"
+git config --global user.email "your_email"
 git add .
 git status
-git commit -m "hgyi"
+git commit -m "name_to_give"
